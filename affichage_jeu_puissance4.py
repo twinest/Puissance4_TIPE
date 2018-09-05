@@ -1,5 +1,5 @@
 ﻿# Créé par thomas, le 04/10/2016 en Python 3.2
-
+#b
 from tkinter import *
 from Puissance4_testcolonne import *
 fenetre=Tk()
