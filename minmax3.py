@@ -1,6 +1,7 @@
 ﻿from Puissance4_testcolonne import *
 from random import *
 
+#aaaa
 
 def func_eval(A):
     A.test()
